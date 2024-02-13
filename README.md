@@ -35,4 +35,4 @@ Information on how others can contribute to the project. Include guidelines for 
 4. Push to the branch: `git push origin feature-branch`
 5. Submit a pull request
 
-[Live Demo]([https://www.example.com](https://geeklabstask1.netlify.app/)https://geeklabstask1.netlify.app/)
+[Live Demo](https://geeklabstask1.netlify.app/)
